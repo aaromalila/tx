@@ -27,7 +27,7 @@
   "radar_ant_h_agl_m": 30,
   "tx_ip_addr": "localhost",
   "s1val": 5,
-  "radar_maxR_km": 350,
+  "radar_maxR_km": 150,
   "ppi_static_noise_addon": 10,
   "if_track_drop_time_s": 20,
   "radar_n_false_alarms_MIN": 10,
