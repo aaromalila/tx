@@ -98,5 +98,6 @@
   "statuspanel_status_plotTX_lbl": " - plottien lähetys: ",
   "statuspanel_state_ON": "ON",
   "statuspanel_state_OFF": "EI",
-  "statuspanel_visible": true
+  "statuspanel_visible": true,
+  "https_config_url": "-"
 }
