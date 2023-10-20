@@ -23,7 +23,7 @@
   "radar_LON_DDdddd": 25,
   "radar_ref_PD": 0.800000011920929,
   "ppi_glow_exp": 0.850000011920929,
-  "ppi_color_rgb": "16,0,0",
+  "ppi_color_rgb": "16,120,0",
   "radar_ant_h_agl_m": 30,
   "tx_ip_addr": "localhost",
   "s1val": 5,
